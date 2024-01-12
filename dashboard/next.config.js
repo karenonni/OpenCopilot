@@ -4,4 +4,6 @@ const nextConfig = {
   output: "standalone",
 };
 
+console.log(111)
+
 module.exports = nextConfig;
